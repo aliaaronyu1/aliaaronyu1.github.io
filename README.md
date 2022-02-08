@@ -1,6 +1,5 @@
-# aliaaronyu1.github.io
-
 Ali Aaron Yu
+
 
 
 This is what my bar chart should look like when I code in VScode and open it up in my browser on a server.  
