@@ -4,7 +4,6 @@ Ali Aaron Yu
 
 
 This is what my bar chart should look like when I code in VScode and open it up in my browser on a server.  
-(https://github.com/aliaaronyu1/aliaaronyu1.github.io/barchart.PNG)  
 ![alt text](https://github.com/aliaaronyu1/aliaaronyu1.github.io/blob/main/barchart.PNG)
 
 However, it doesnt work on vizhub.  
