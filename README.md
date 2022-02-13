@@ -2,8 +2,7 @@ Ali Aaron Yu
 
 https://github.com/aliaaronyu1/aliaaronyu1.github.io  
   
-  
-This is what my bar chart should look like when I code in VScode and open it up in my browser on a server.  
+
 ![alt text](https://github.com/aliaaronyu1/aliaaronyu1.github.io/blob/main/barchart.PNG)
 
 However, it doesnt work on vizhub.  
