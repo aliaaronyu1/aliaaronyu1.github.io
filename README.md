@@ -14,3 +14,7 @@ Distribution of Weight from Body Mass Index Data - Box Plot
 https://vizhub.com/aliaaronyu1/cc92527aa39c46cbbd654c1ebe0f7f36?edit=files&file=boxplot.js  
 Distribution of Height from Body Mass Index Data - Strip Plot
 https://vizhub.com/aliaaronyu1/a2c6ba30f8fa477bb487629a9213d982?edit=files&file=stripplot.js  
+  
+Assignment 4:
+Highest Grossing Films - Bar Chart in D3
+https://vizhub.com/aliaaronyu1/23136a27ca2947d498c9d86d8978ead4?
