@@ -17,4 +17,6 @@ https://vizhub.com/aliaaronyu1/a2c6ba30f8fa477bb487629a9213d982?edit=files&file=
   
 Assignment 4:
 Highest Grossing Films - Bar Chart in D3
-https://vizhub.com/aliaaronyu1/23136a27ca2947d498c9d86d8978ead4?
+https://vizhub.com/aliaaronyu1/23136a27ca2947d498c9d86d8978ead4?  
+Highest Grossing Films - Scatter Plot in D3
+https://vizhub.com/aliaaronyu1/135fad742ea9476db04d6cd8931eb671  
