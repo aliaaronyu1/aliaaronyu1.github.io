@@ -20,3 +20,4 @@ Highest Grossing Films - Bar Chart in D3
 https://vizhub.com/aliaaronyu1/23136a27ca2947d498c9d86d8978ead4?  
 Highest Grossing Films - Scatter Plot in D3
 https://vizhub.com/aliaaronyu1/135fad742ea9476db04d6cd8931eb671  
+<a href="https://vizhub.com/aliaaronyu1/135fad742ea9476db04d6cd8931eb671">Scatter Plot in D3</a>
