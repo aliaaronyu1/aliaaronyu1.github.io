@@ -18,4 +18,6 @@ Highest Grossing Films - <a href="https://vizhub.com/aliaaronyu1/135fad742ea9476
   
 Assignment 5:  
 Body Mass Index - <a href= "https://vizhub.com/aliaaronyu1/bc40b2c0fec54eeeb869d59ce7f74ddd?edit=files&file=index.html"> Bubble Chart in D3 </a>  
-
+  
+Assignment 6:
+Highest Grossing Films - <a href="https://vizhub.com/aliaaronyu1/cdb158a8dcda4e6aae540bfb688124ad?edit=files&file=index.html"> Bar Chart Sequential Colors </a>  
